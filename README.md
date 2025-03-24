@@ -1,2 +1,2 @@
-# Front
-Minhas primeiras experiências com front e HTML
+# exercises-html
+ Exercícios de aprendizagem propostos pela professor de Desenvolvimento Web Front-End
